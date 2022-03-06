@@ -15,4 +15,4 @@
 - TODO: надо добавить, как бекапить репозитории Debian, ArchLinux, CentOS и т.д.
 
 ### Репозитории библиотек
-- TODO: надо добавить, как бекапить репозитории pypi, npm, nuget, crates.io
+- TODO: надо добавить, как бекапить репозитории pypi, npm, nuget, crates.io, nuget
